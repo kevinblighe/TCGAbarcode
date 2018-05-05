@@ -5,6 +5,6 @@ The orginal NIH documentation on TCGA barcodes, preserved. In response to: https
 
 <hr>
 
-<img src="imges/barcode.png"></img>
+<img src="images/barcode.png"></img>
 <p></p>
-<imh src="images/TCGA_barcode.jpg"></img>
+<img src="images/TCGA_barcode.jpg"></img>
