@@ -8,3 +8,5 @@ The orginal NIH documentation on TCGA barcodes, preserved. In response to: https
 <img src="images/barcode.png"></img>
 <p></p>
 <img src="images/TCGA_barcode.jpg"></img>
+
+*Code Tables Report* can be found at [TCGA Code Tables](https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables)
